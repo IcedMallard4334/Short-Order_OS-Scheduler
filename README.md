@@ -33,10 +33,6 @@ The local `function` profile differs from the one used for marking; see
 5. **On `function`, sweep once.** Give every order one tick of work (response
    stops at the first tick), then settle into shortest-job-first.
 
-The reasoning, the measured negative results and the open uncertainties are in
-[`docs/NOTES.md`](docs/NOTES.md). The assignment itself is summarised in
-[`docs/project-brief.pdf`](docs/project-brief.pdf).
-
 ## Reproducing the numbers
 
 The course kit (engine, SDK and profiles) is not in this repo: it comes from the
