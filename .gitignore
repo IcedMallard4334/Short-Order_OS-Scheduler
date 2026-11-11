@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+replays/
+*.rep
+
+# The course kit is not redistributed here
+short-order-student-*/
+engine/
+student-sdk/
+configs/
